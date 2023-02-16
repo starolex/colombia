@@ -4,22 +4,21 @@ import urllib.request
 import colorama
 banner = """
 
-████████ ██   ██  █████   ██████ ██   ██ ███████ ██████  ██████      ██ ██      ██   ██ ███████ ██████  
-   ██    ██   ██ ██   ██ ██      ██  ██  ██      ██   ██ ██   ██     ██ ██      ██  ██  ██      ██   ██ 
-   ██    ███████ ███████ ██      █████   █████   ██████  ██████      ██ ██      █████   █████   ██████  
-   ██    ██   ██ ██   ██ ██      ██  ██  ██      ██   ██ ██   ██     ██ ██      ██  ██  ██      ██   ██ 
-   ██    ██   ██ ██   ██  ██████ ██   ██ ███████ ██   ██ ██   ██     ██ ███████ ██   ██ ███████ ██   ██ 
+█▀▀ █▀▀█ █░░ █▀▀█ █▀▄▀█ █▀▀▄ ░▀░ █▀▀█
+█░░ █░░█ █░░ █░░█ █░▀░█ █▀▀▄ ▀█▀ █▄▄█
+▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀▀▀ ▀░░░▀ ▀▀▀░ ▀▀▀ ▀░░▀
                                                                                                                                                                                                          
 """
 print(banner)
 """
-Kod ile yapacağınız herhangi bir işlemden ben sorumlu değilim. Bu riski göz önüne alarak kullanın.
+yaptığın suç senindir beni boklama sikerim ananı.
 
 """
 
 colors=['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;34m','\033[1;35m','\033[1;36m']
 
-_phone = input('Hedef Kişinin Numarasını Girin (+):')
+_phone = input('Fukara piç
+	       in Numarasını Girin (+):')
 _name = ''
 
 for x in range(12):
